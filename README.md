@@ -5,16 +5,15 @@ Jave you ever wondered if your food products were vegetarian or not? Find the 12
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![Recording 2022-05-15 at 16 21 51](https://user-images.githubusercontent.com/96213223/170836169-9fe8ed32-8a14-4997-916b-1ee2bb17ba7e.gif)
+
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, APIs
 
 
-
 ## Optimizations
-*(optional)*
 
 This project could have been optimized to include not only UPC 12 barcodes but UPC 13 barcodes well. Additionally the CSS could have been a bit more appealing but, I chose to focus on functionality rather than appearance. I could have added additional features to check to see if the product entered is vegan  or not, if it includes gluten, or even if it includes some sort of product that the user is allergic to.
 
