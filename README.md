@@ -42,8 +42,8 @@ Take a look at these couple examples that I have in my own portfolio:
 
 *Kahn Academy Duplicate*: https://github.com/Roshanell/Kahn-Academy-Duplicate
 
-*Task Manager APP: https://github.com/Roshanell/task_manager
+*Task Manager APP*: https://github.com/Roshanell/task_manager
 
-*CodeWars https://github.com/Roshanell/Codewars
+*CodeWars* https://github.com/Roshanell/Codewars
 
 
