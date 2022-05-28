@@ -40,7 +40,7 @@ Don't have a UPC ready? No worries! Check out a few listed below:
 
 Take a look at these couple examples that I have in my own portfolio:
 
-*Kahn Academy Duplicate: https://github.com/Roshanell/Kahn-Academy-Duplicate
+*Kahn Academy Duplicate*: https://github.com/Roshanell/Kahn-Academy-Duplicate
 
 *Task Manager APP: https://github.com/Roshanell/task_manager
 
