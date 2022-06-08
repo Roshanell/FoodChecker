@@ -3,7 +3,7 @@
 
 Jave you ever wondered if your food products were vegetarian or not? Find the 12 digit UPC nuber hand enter it. This useful app will answer your questions.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://vegetarianchecker.netlify.app/
 
 ![Recording 2022-05-15 at 16 21 51](https://user-images.githubusercontent.com/96213223/170836169-9fe8ed32-8a14-4997-916b-1ee2bb17ba7e.gif)
 
